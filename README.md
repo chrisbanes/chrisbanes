@@ -1,18 +1,25 @@
-# Hi 👋, I'm Chris Banes
-A software engineer focused on all things UI
+# Hi, I'm Chris 👋
 
-![](https://github-profile-trophy.vercel.app/?username=chrisbanes)
+I love helping developers build. Across my career, that has meant creating libraries, tools, and engineering foundations that make difficult work easier and help teams ship.
 
-### Connect with me:
+My love of polished UI is still there, but these days it's more of a side quest. I still care about how a screen transitions, how a list scrolls, and whether a button responds the moment you tap it.
 
-<p align="left">
-<a href="https://twitter.com/chrisbanes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chrisbanes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chrisbanes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chrisbanes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="chrisbanes" height="30" width="40" /></a>
-<a href="https://medium.com/chrisbanes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="chrisbanes" height="30" width="40" /></a>
-</p>
+I'm a Consumer Products Tech Lead and Senior Staff Software Engineer at [The Trade Desk](https://www.thetradedesk.com/), building [Ventura TV OS](https://www.thetradedesk.com/ventura-streaming-tv-os), a new streaming TV operating system for the open internet. My work spans mobile and TV, with Kotlin Multiplatform and Compose Multiplatform at the centre of how we build and ship client experiences.
 
-### Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+Before that, I led the Client UI Android team at Twitter, working on the infrastructure and systems underneath the app's interface. I previously spent nearly nine years on Google's Android Developer Relations team, where I helped build libraries used across the Android ecosystem, including [AppCompat](https://developer.android.com/jetpack/androidx/releases/appcompat), the [Design Support Library](https://android-developers.googleblog.com/2015/05/android-design-support-library.html), and [Palette](https://developer.android.com/develop/ui/views/graphics/palette-colors).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisbanes&show_icons=true&locale=en" alt="chrisbanes" /></p>
+## Open source
+
+Most of my open-source projects start with a question I want to answer:
+
+- [Haze](https://github.com/chrisbanes/haze) explores glass and blur effects in Compose Multiplatform.
+- [Tivi](https://github.com/chrisbanes/tivi) tests how modern Android architecture holds up in a real application.
+- [Accompanist](https://github.com/google/accompanist) provided utilities for Jetpack Compose while the framework was still growing.
+- [Insetter](https://github.com/chrisbanes/insetter) simplifies window inset handling on Android.
+- [PhotoView](https://github.com/Baseflow/PhotoView) brought pinch-to-zoom to Android `ImageView`s.
+- [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) brought pull-to-refresh to Android before the platform had it.
+
+## Elsewhere
+
+- [Website](https://chrisbanes.me/) · [Posts](https://chrisbanes.me/posts/) · [Talks](https://chrisbanes.me/talks/) · [Resume](https://chrisbanes.me/resume/)
+- [LinkedIn](https://www.linkedin.com/in/chrisbanes/)
