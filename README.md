@@ -1,25 +1,11 @@
 # Hi, I'm Chris 👋
 
-I love helping developers build. Across my career, that has meant creating libraries, tools, and engineering foundations that make difficult work easier and help teams ship.
+I help developers build through libraries, tools, and shared foundations. These days, much of that is Kotlin Multiplatform: designing shared architecture for products across Android, iOS, and TV. I care about polished UI, especially the transitions, scrolling, and small interaction details that shape how software feels.
 
-My love of polished UI is still there, but these days it's more of a side quest. I still care about how a screen transitions, how a list scrolls, and whether a button responds the moment you tap it.
+I'm the Consumer Products Tech Lead at [The Trade Desk](https://www.thetradedesk.com/), building [Ventura TV OS](https://www.thetradedesk.com/ventura-streaming-tv-os) with Kotlin Multiplatform and Compose Multiplatform.
 
-These days I'm the Consumer Products Tech Lead at [The Trade Desk](https://www.thetradedesk.com/), building [Ventura TV OS](https://www.thetradedesk.com/ventura-streaming-tv-os) for Android, iOS, and TV. Kotlin Multiplatform and Compose Multiplatform sit at the heart of that work, giving us a shared foundation for the product.
+Previously, I led Client UI Android at Twitter and spent nearly nine years on Android Developer Relations at Google, where I worked on [AppCompat](https://developer.android.com/jetpack/androidx/releases/appcompat), the [Design Support Library](https://android-developers.googleblog.com/2015/05/android-design-support-library.html), and [Palette](https://developer.android.com/develop/ui/views/graphics/palette-colors).
 
-Before that, I led the Client UI Android team at Twitter, working on the infrastructure and systems underneath the app's interface. I previously spent nearly nine years on Google's Android Developer Relations team, where I helped build libraries used across the Android ecosystem, including [AppCompat](https://developer.android.com/jetpack/androidx/releases/appcompat), the [Design Support Library](https://android-developers.googleblog.com/2015/05/android-design-support-library.html), and [Palette](https://developer.android.com/develop/ui/views/graphics/palette-colors).
+**Open source:** [Haze](https://github.com/chrisbanes/haze) · [Tivi](https://github.com/chrisbanes/tivi) · [Accompanist](https://github.com/google/accompanist) · [PhotoView](https://github.com/Baseflow/PhotoView)
 
-## Open source
-
-Most of my open-source projects start with a question I want to answer:
-
-- [Haze](https://github.com/chrisbanes/haze) explores glass and blur effects in Compose Multiplatform.
-- [Tivi](https://github.com/chrisbanes/tivi) tests how modern Android architecture holds up in a real application.
-- [Accompanist](https://github.com/google/accompanist) provided utilities for Jetpack Compose while the framework was still growing.
-- [Insetter](https://github.com/chrisbanes/insetter) simplifies window inset handling on Android.
-- [PhotoView](https://github.com/Baseflow/PhotoView) brought pinch-to-zoom to Android `ImageView`s.
-- [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) brought pull-to-refresh to Android before the platform had it.
-
-## Elsewhere
-
-- [Website](https://chrisbanes.me/) · [Posts](https://chrisbanes.me/posts/) · [Talks](https://chrisbanes.me/talks/) · [Resume](https://chrisbanes.me/resume/)
-- [LinkedIn](https://www.linkedin.com/in/chrisbanes/)
+**Elsewhere:** [Writing](https://chrisbanes.me/posts/) · [Talks](https://chrisbanes.me/talks/) · [Resume](https://chrisbanes.me/resume/) · [LinkedIn](https://www.linkedin.com/in/chrisbanes/)
