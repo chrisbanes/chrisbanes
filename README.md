@@ -4,7 +4,7 @@ I love helping developers build. Across my career, that has meant creating libra
 
 My love of polished UI is still there, but these days it's more of a side quest. I still care about how a screen transitions, how a list scrolls, and whether a button responds the moment you tap it.
 
-I'm a Consumer Products Tech Lead and Senior Staff Software Engineer at [The Trade Desk](https://www.thetradedesk.com/), building [Ventura TV OS](https://www.thetradedesk.com/ventura-streaming-tv-os), a new streaming TV operating system for the open internet. My work spans mobile and TV, with Kotlin Multiplatform and Compose Multiplatform at the centre of how we build and ship client experiences.
+These days I'm the Consumer Products Tech Lead at [The Trade Desk](https://www.thetradedesk.com/), building [Ventura TV OS](https://www.thetradedesk.com/ventura-streaming-tv-os) for Android, iOS, and TV. Kotlin Multiplatform and Compose Multiplatform sit at the heart of that work, giving us a shared foundation for the product.
 
 Before that, I led the Client UI Android team at Twitter, working on the infrastructure and systems underneath the app's interface. I previously spent nearly nine years on Google's Android Developer Relations team, where I helped build libraries used across the Android ecosystem, including [AppCompat](https://developer.android.com/jetpack/androidx/releases/appcompat), the [Design Support Library](https://android-developers.googleblog.com/2015/05/android-design-support-library.html), and [Palette](https://developer.android.com/develop/ui/views/graphics/palette-colors).
 
